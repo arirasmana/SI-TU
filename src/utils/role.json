@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nama": "Kepala Sekolah"
+  },
+  {
+    "id": 2,
+    "nama": "Admin TU"
+  },
+  {
+    "id": 3,
+    "nama": "Guru"
+  },
+  {
+    "id": 4,
+    "nama": "Siswa"
+  },
+  {
+    "id": 5,
+    "nama": "Pustakawan"
+  },
+  {
+    "id": 6,
+    "nama": "Pengurus Koperasi"
+  },
+  {
+    "id": 7,
+    "nama": "Anggota Koperasi"
+  }
+]

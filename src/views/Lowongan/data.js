@@ -1,0 +1,78 @@
+import uuid from 'uuid/v1';
+
+export default [
+  {
+    id: uuid(),
+    judul: 'Programmer',
+    id_jenis_lowongan: 'Full Time',
+    keterangan: '-',
+    jumlah: 5,
+    tanggal_dibuka: 1555016400000,
+    tanggal_ditutup: 1555016400000,
+  },
+  {
+    id: uuid(),
+    judul: 'Programmer',
+    id_jenis_lowongan: 'Full Time',
+    keterangan: '-',
+    jumlah: 5,
+    tanggal_dibuka: 1555016400000,
+    tanggal_ditutup: 1555016400000,
+  },{
+    id: uuid(),
+    judul: 'Programmer',
+    id_jenis_lowongan: 'Full Time',
+    keterangan: '-',
+    jumlah: 5,
+    tanggal_dibuka: 1555016400000,
+    tanggal_ditutup: 1555016400000,
+  },{
+    id: uuid(),
+    judul: 'Programmer',
+    id_jenis_lowongan: 'Full Time',
+    keterangan: '-',
+    jumlah: 5,
+    tanggal_dibuka: 1555016400000,
+    tanggal_ditutup: 1555016400000,
+  },{
+    id: uuid(),
+    judul: 'Programmer',
+    id_jenis_lowongan: 'Full Time',
+    keterangan: '-',
+    jumlah: 5,
+    tanggal_dibuka: 1555016400000,
+    tanggal_ditutup: 1555016400000,
+  },{
+    id: uuid(),
+    judul: 'Programmer',
+    id_jenis_lowongan: 'Full Time',
+    keterangan: '-',
+    jumlah: 5,
+    tanggal_dibuka: 1555016400000,
+    tanggal_ditutup: 1555016400000,
+  },{
+    id: uuid(),
+    judul: 'Programmer',
+    id_jenis_lowongan: 'Full Time',
+    keterangan: '-',
+    jumlah: 5,
+    tanggal_dibuka: 1555016400000,
+    tanggal_ditutup: 1555016400000,
+  },{
+    id: uuid(),
+    judul: 'Programmer',
+    id_jenis_lowongan: 'Full Time',
+    keterangan: '-',
+    jumlah: 5,
+    tanggal_dibuka: 1555016400000,
+    tanggal_ditutup: 1555016400000,
+  },{
+    id: uuid(),
+    judul: 'Programmer',
+    id_jenis_lowongan: 'Full Time',
+    keterangan: '-',
+    jumlah: 5,
+    tanggal_dibuka: 1555016400000,
+    tanggal_ditutup: 1555016400000,
+  }
+];

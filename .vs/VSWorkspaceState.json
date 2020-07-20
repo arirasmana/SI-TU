@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\layouts\\Main",
+    "\\src\\layouts\\Main\\components",
+    "\\src\\layouts\\Main\\components\\Sidebar",
+    "\\src\\layouts\\Main\\components\\Sidebar\\components\\SidebarNav",
+    "\\src\\layouts\\Minimal",
+    "\\src\\views",
+    "\\src\\views\\UserList",
+    "\\src\\views\\UserList\\components",
+    "\\src\\views\\UserList\\components\\UsersTable",
+    "\\src\\views\\UserList\\components\\UsersToolbar"
+  ],
+  "SelectedNode": "\\src\\views\\UserList\\UpsertUser.js",
+  "PreviewInSolutionExplorer": false
+}
